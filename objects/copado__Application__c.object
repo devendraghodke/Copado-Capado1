@@ -290,7 +290,7 @@ CASE( copado__Stability__c,
         <type>Text</type>
     </nameField>
     <pluralLabel>Applications</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <startsWith>Vowel</startsWith>
     <visibility>Public</visibility>
